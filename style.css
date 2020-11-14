@@ -1,0 +1,13 @@
+#rec250139832 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 5px;
+}
+
+.t786__col_mobile-grid {
+    width: 100px;
+    height: 100px;
+    border: 2px solid black;
+    margin: 1px auto;
+}
